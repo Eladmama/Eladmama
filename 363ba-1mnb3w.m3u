@@ -1,0 +1,119 @@
+#EXTM3U url-tvg="https://epg.best/1deee-1mnb3w.xml.gz" x-tvg-url="https://epg.best/1deee-1mnb3w.xml.gz"
+#EXTINF:-1 tvg-id="Kan11.il" tvg-name="ערוץ 11" tvg-logo="https://static.epg.best/il/Kan11.il.png" tvg-chno="1" channel-id="1" group-title="ישראלי",ערוץ 11
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/18131
+#EXTINF:-1 tvg-id="12Keshet.il" tvg-name="ערוץ 12" tvg-logo="https://static.epg.best/il/12Keshet.il.png" tvg-chno="2" channel-id="2" group-title="ישראלי",ערוץ 12
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/19374
+#EXTINF:-1 tvg-id="13Reshet.il" tvg-name="ערוץ 13" tvg-logo="https://static.epg.best/il/13Reshet.il.png" tvg-chno="3" channel-id="3" group-title="ישראלי",ערוץ 13
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/19375
+#EXTINF:-1 tvg-id="Channel20.il" tvg-name="ערוץ 20" tvg-logo="https://static.epg.best/il/Channel20.il.png" tvg-chno="4" channel-id="4" group-title="ישראלי",ערוץ 20
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/3301
+#EXTINF:-1 tvg-id="KanHinuchit.il" tvg-name="כאן חינוכית" tvg-logo="https://img.ice.co.il/giflib/news/rsPhoto/sz_193/rsz_615_346_logo_hinohit870_130818.jpg" tvg-chno="5" channel-id="5" group-title="ישראלי",כאן חינוכית
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/19376
+#EXTINF:-1 tvg-id="Channel9.il" tvg-name="ערוץ 9 ברוסית" tvg-logo="https://static.epg.best/il/Channel9.il.png" tvg-chno="9" channel-id="9" group-title="ישראלי",ערוץ 9 ברוסית
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/40334
+#EXTINF:-1 tvg-id="KnessetChannel.il" tvg-name="ערוץ הכנסת" tvg-logo="https://static.epg.best/il/KnessetChannel.il.png" tvg-chno="10" channel-id="10" group-title="ישראלי",ערוץ הכנסת
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/12033
+#EXTINF:-1 tvg-id="YesDocu.il" tvg-name="YES Docu" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/Yes_Doco_white.png" tvg-chno="11" channel-id="11" group-title="ישראלי",YES Docu
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/25832
+#EXTINF:-1 tvg-id="Hot3.il" tvg-name="HOT 3" tvg-logo="https://static.epg.best/il/Hot3.il.png" tvg-chno="12" channel-id="12" group-title="ישראלי",HOT 3
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/6106
+#EXTINF:-1 tvg-id="HumorChannel.il" tvg-name="ערוץ ההומור" tvg-logo="https://static.epg.best/il/HumorChannel.il.png" tvg-chno="13" channel-id="13" group-title="ישראלי",ערוץ ההומור
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/19380
+#EXTINF:-1 tvg-id="HotZone.il" tvg-name="HOT ZONE" tvg-logo="https://static.epg.best/il/HotZone.il.png" tvg-chno="14" channel-id="14" group-title="ישראלי",HOT ZONE
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/6107
+#EXTINF:-1 tvg-id="HotHBO.il" tvg-name="HOT HBO" tvg-logo="https://static.epg.best/il/HotHBO.il.png" tvg-chno="15" channel-id="15" group-title="ישראלי",HOT HBO
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/41504
+#EXTINF:-1 tvg-id="YesTVAction.il" tvg-name="YES TV Action" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/yes_TV_ACTION_118x104.jpg" tvg-chno="16" channel-id="16" group-title="ישראלי",YES TV Action
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/45723
+#EXTINF:-1 tvg-id="YesTVComedy.il" tvg-name="YES TV Comedy" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/yes_TV_COMEDY_118x104.jpg" tvg-chno="17" channel-id="17" group-title="ישראלי",YES TV Comedy
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/45725
+#EXTINF:-1 tvg-id="YesTVDrama.il" tvg-name="YES TV Drama" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/yes_TV_drama_118x104.jpg" tvg-chno="18" channel-id="18" group-title="ישראלי",YES TV Drama
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/45722
+#EXTINF:-1 tvg-id="HomeAndFamily.il" tvg-name="בית פלוס" tvg-logo="https://static.epg.best/il/HomeAndFamily.il.png" tvg-chno="19" channel-id="19" group-title="ישראלי",בית פלוס
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/6103
+#EXTINF:-1 tvg-id="DoItYourself.il" tvg-name="DIY Channel" tvg-logo="https://static.epg.best/il/DoItYourself.il.png" tvg-chno="20" channel-id="20" group-title="ישראלי",DIY Channel
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/23716
+#EXTINF:-1 tvg-id="TotalEgo.il" tvg-name="אגו טוטאל" tvg-logo="https://static.epg.best/il/TotalEgo.il.png" tvg-chno="21" channel-id="21" group-title="ישראלי",אגו טוטאל
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/12586
+#EXTINF:-1 tvg-id="ComedyCentral.il" tvg-name="HOT Comedy Central" tvg-logo="https://static.epg.best/il/ComedyCentral.il.png" tvg-chno="22" channel-id="22" group-title="ישראלי",HOT Comedy Central
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/6104
+#EXTINF:-1 tvg-id="Discovery.il" tvg-name="Discovery" tvg-logo="https://static.epg.best/il/Discovery.il.png" tvg-chno="23" channel-id="23" group-title="ישראלי",Discovery
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/7342
+#EXTINF:-1 tvg-id="DiscoveryScience.il" tvg-name="Discovery Science" tvg-logo="https://static.epg.best/il/DiscoveryScience.il.png" tvg-chno="24" channel-id="24" group-title="ישראלי",Discovery Science
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/41253
+#EXTINF:-1 tvg-id="HistoryHD.il" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png" tvg-chno="25" channel-id="25" group-title="ישראלי",History
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/8142
+#EXTINF:-1 tvg-id="FoodChannel.il" tvg-name="ערוץ האוכל" tvg-logo="https://static.epg.best/il/FoodChannel.il.png" tvg-chno="26" channel-id="26" group-title="ישראלי",ערוץ האוכל
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/22645
+#EXTINF:-1 tvg-id="HealthChannel.il" tvg-name="ערוץ הבריאות" tvg-logo="https://static.epg.best/il/HealthChannel.il.png" tvg-chno="27" channel-id="27" group-title="ישראלי",ערוץ הבריאות
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/12032
+#EXTINF:-1 tvg-id="GoodLife.il" tvg-name="Fine Living" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fine_Living_logo.svg/1280px-Fine_Living_logo.svg.png" tvg-chno="28" channel-id="28" group-title="ישראלי",Fine Living
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/12029
+#EXTINF:-1 tvg-id="GoodLife.il" tvg-name="ערוץ החיים הטובים" tvg-logo="https://scontent.fsdv1-2.fna.fbcdn.net/v/t1.6435-9/168917511_5371345469574213_5844441099501748458_n.png?_nc_cat=104&ccb=1-5&_nc_sid=7aed08&efg=eyJpIjoidCJ9&_nc_ohc=eF-XgkWM3ucAX8mtvGq&_nc_ht=scontent.fsdv1-2.fna&oh=00_AT9CX6KUDl3tR6I8nsuR8LIhNOn3ifsEjjkhVfvSSxWDzw&oe=625A6B14" tvg-chno="29" channel-id="29" group-title="ישראלי",ערוץ החיים הטובים
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/16283
+#EXTINF:-1 tvg-id="TravelChannel.il" tvg-name="Travel" tvg-logo="https://static.epg.best/il/TravelChannel.il.png" tvg-chno="30" channel-id="30" group-title="ישראלי",Travel
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/25824
+#EXTINF:-1 tvg-id="HotEntertainmentIsrael.il" tvg-name="בידור ישראלי" tvg-logo="https://static.epg.best/il/HotEntertainmentIsrael.il.png" tvg-chno="31" channel-id="31" group-title="ישראלי",בידור ישראלי
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/6102
+#EXTINF:-1 tvg-id="CBSReality.il" tvg-name="CBS Reality" tvg-logo="https://static.epg.best/il/CBSReality.il.png" tvg-chno="33" channel-id="33" group-title="ישראלי",CBS Reality
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/14723
+#EXTINF:-1 tvg-id="AnimalPlanet.il" tvg-name="Animal planet" tvg-logo="https://static.epg.best/il/AnimalPlanet.il.png" tvg-chno="34" channel-id="34" group-title="ישראלי",Animal planet
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/35323
+#EXTINF:-1 tvg-id="NationalGeographic.il" tvg-name="National Geographic HD" tvg-logo="https://static.epg.best/il/NationalGeographic.il.png" tvg-chno="35" channel-id="35" group-title="ישראלי",National Geographic HD
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/40774
+#EXTINF:-1 tvg-id="NatGeoWild.il" tvg-name="National Geo Wild HD" tvg-logo="https://static.epg.best/il/NatGeoWild.il.png" tvg-chno="36" channel-id="36" group-title="ישראלי",National Geo Wild HD
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/40775
+#EXTINF:-1 tvg-id="EEntertainment.il" tvg-name="E! Entertainment" tvg-logo="https://static.epg.best/il/EEntertainment.il.png" tvg-chno="37" channel-id="37" group-title="ישראלי",E! Entertainment
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/14639
+#EXTINF:-1 tvg-id="IsraeliFashion.il" tvg-name="ערוץ האופנה" tvg-logo="https://m.isramedia.net/images/users/2/7f5f5879c73fbde981c7f32211ca2840.png" tvg-chno="38" channel-id="38" group-title="ישראלי",ערוץ האופנה
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/41252
+#EXTINF:-1 tvg-id="Hidabroot.il" tvg-name="הידברות" tvg-logo="https://static.epg.best/il/Hidabroot.il.png" tvg-chno="39" channel-id="39" group-title="ישראלי",הידברות
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/7343
+#EXTINF:-1 tvg-id="I24News.fr" tvg-name="i 24 news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/1280px-LOGO_i24NEWS.png" tvg-chno="75" channel-id="75" group-title="ישראלי",i 24 news
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/12299
+#EXTINF:-1 tvg-id="FoxBusiness.il" tvg-name="Fox Business" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/1280px-Fox_Business.svg.png" tvg-chno="76" channel-id="76" group-title="ישראלי",Fox Business
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/42009
+#EXTINF:-1 tvg-id="YesMoviesAction.il" tvg-name="YES Movies Action" tvg-logo="https://www.yes.co.il/documents/35670/2192721/02_yes_MOVIES_ACTION_320x213.png/3bbfe74f-e995-3f82-915b-84c0ef50f868?t=1612360842781" tvg-chno="103" channel-id="103" group-title="ישראלי",YES Movies Action
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/45721
+#EXTINF:-1 tvg-id="YesMoviesKids.il" tvg-name="YES Movies Kids" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/yes_MOVIES_KIDS_118x104.jpg" tvg-chno="106" channel-id="106" group-title="ישראלי",YES Movies Kids
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/45718
+#EXTINF:-1 tvg-id="YesMoviesDrama.il" tvg-name="YES Movies Drama" tvg-logo="https://www.yes.co.il/documents/35670/2192721/01_yes_MOVIES_DRAMA_320x213.png/978d8f9d-f87f-e0fc-80fa-33f2c18a354c?t=1612360842174" tvg-chno="105" channel-id="105" group-title="ישראלי",YES Movies Drama
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/45719
+#EXTINF:-1 tvg-id="YesMoviesComedy.il" tvg-name="YES Movies Comedy" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/yes_MOVIES_comedy_118x104.jpg" tvg-chno="104" channel-id="104" group-title="ישראלי",YES Movies Comedy
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/45720
+#EXTINF:-1 tvg-id="HotMovies1.il" tvg-name="HOT Cinema 1" tvg-logo="https://static.epg.best/il/HotMovies1.il.png" tvg-chno="107" channel-id="107" group-title="ישראלי",HOT Cinema 1
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/64397
+#EXTINF:-1 tvg-id="HotMovies2.il" tvg-name="HOT Cinema 2" tvg-logo="https://static.epg.best/il/HotMovies2.il.png" tvg-chno="108" channel-id="108" group-title="ישראלי",HOT Cinema 2
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/64338
+#EXTINF:-1 tvg-id="HotMovies3.il" tvg-name="HOT Cinema 3" tvg-logo="https://static.epg.best/il/HotMovies3.il.png" tvg-chno="109" channel-id="109" group-title="ישראלי",HOT Cinema 3
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/64339
+#EXTINF:-1 tvg-id="HotMovies4.il" tvg-name="HOT Cinema 4" tvg-logo="https://static.epg.best/il/HotMovies4.il.png" tvg-chno="110" channel-id="110" group-title="ישראלי",HOT Cinema 4
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/64340
+#EXTINF:-1 tvg-id="BollywoodHD.il" tvg-name="HOT Bollywood HD" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/Bollywood.png" tvg-chno="400" channel-id="400" group-title="ישראלי",HOT Bollywood HD
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/20368
+#EXTINF:-1 tvg-id="Mediterranean.il" tvg-name="ים תיכוני" tvg-logo="https://israel-now.co.il/wp-content/uploads/2020/12/25-yam.jpg" tvg-chno="401" channel-id="401" group-title="ישראלי",ים תיכוני
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/12031
+#EXTINF:-1 tvg-id="Makan33.il" tvg-name="מכאן 33" tvg-logo="https://static.epg.best/il/Makan33.il.png" tvg-chno="402" channel-id="402" group-title="ישראלי",מכאן 33
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/14595
+#EXTINF:-1 tvg-id="ShoppingChannel.il" tvg-name="ערוץ הקניות" tvg-logo="https://static.epg.best/il/ShoppingChannel.il.png" tvg-chno="403" channel-id="403" group-title="ישראלי",ערוץ הקניות
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/19513
+#EXTINF:-1 tvg-id="HalaTV.il" tvg-name="Hala TV" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/7/71/Hala_TV_Logo1.svg/1280px-Hala_TV_Logo1.svg.png" tvg-chno="404" channel-id="404" group-title="ישראלי",Hala TV
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/19381
+#EXTINF:-1 tvg-id="Viva.il" tvg-name="VIVA" tvg-logo="https://static.epg.best/il/Viva.il.png" tvg-chno="405" channel-id="405" group-title="ישראלי",VIVA
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/14531
+#EXTINF:-1 tvg-id="VivaPlus.il" tvg-name="VIVA Plus" tvg-logo="https://static.epg.best/il/VivaPlus.il.png" tvg-chno="406" channel-id="406" group-title="ישראלי",VIVA Plus
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/6101
+#EXTINF:-1 tvg-id="DramotTurkiyot.il" tvg-name="Turkish Dramas Plus" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/turkish_drama_2_118x104.png" tvg-chno="410" channel-id="410" group-title="ישראלי",Turkish Dramas Plus
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/34819
+#EXTINF:-1 tvg-id="TurkishDrama2.il" tvg-name="Turkish Dramas" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/turkish_drama_2_118x104.png" tvg-chno="411" channel-id="411" group-title="ישראלי",Turkish Dramas
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/45726
+#EXTINF:-1 tvg-id="MTVLive.il" tvg-name="MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/1280px-MTV_Hits_2021.svg.png" tvg-chno="450" channel-id="450" group-title="ישראלי",MTV Hits
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/42010
+#EXTINF:-1 tvg-id="VH1.il" tvg-name="VH1" tvg-logo="https://static.epg.best/il/VH1.il.png" tvg-chno="451" channel-id="451" group-title="ישראלי",VH1
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/42007
+#EXTINF:-1 tvg-id="VH1Classic.za" tvg-name="VH1 Classic" tvg-logo="https://static.epg.best/za/VH1Classic.za.png" tvg-chno="452" channel-id="452" group-title="ישראלי",VH1 Classic
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/42008
+#EXTINF:-1 tvg-id="Channel24.il" tvg-name="ערוץ 24" tvg-logo="https://israel-now.co.il/wp-content/uploads/2020/12/24-new.jpg" tvg-chno="453" channel-id="453" group-title="ישראלי",ערוץ 24
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/41254
+#EXTINF:-1 tvg-id="MTV.il" tvg-name="MTV Isreal" tvg-logo="https://static.epg.best/il/MTV.il.png" tvg-chno="454" channel-id="454" group-title="ישראלי",MTV Isreal
+http://livego.club:8080/1ZHbfH1me8/38SPj3NPsv/9573
